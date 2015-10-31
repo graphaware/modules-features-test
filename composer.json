@@ -1,0 +1,9 @@
+{
+    "require": {
+        "behat/behat": "^3.0",
+        "graphaware/neo4j-php-client": "^3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    }
+}
