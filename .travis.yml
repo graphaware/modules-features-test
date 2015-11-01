@@ -10,7 +10,6 @@ matrix:
 
 before_install:
     - sh -c ./build/install-neo.sh
-    - neo4j-enterprise-$NEO_VERSION/bin/neo4j start > null
     - composer self-update
 
 before_script:
