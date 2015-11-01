@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/graphaware/modules-features-test.svg)](https://travis-ci.org/graphaware/modules-features-test)
